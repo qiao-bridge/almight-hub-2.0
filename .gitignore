@@ -15,4 +15,33 @@ bin-release/
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# information for Eclipse / Flash Builder.# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 资源派生文件
+*.DS_Store?
+*.AppleDouble
+*.LSOverride?
+
+# 目录元数据
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# 直接忽略整个 .DS_Store 在任何位置
+**/.DS_Store
+
+# 临时文件
+*.swp
+*.swo
+*~
+~$*
+
+# 日志文件
+*.log
