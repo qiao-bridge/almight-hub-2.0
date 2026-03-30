@@ -6,11 +6,13 @@
 #### 硬件展示
 
 ![硬件实物图](Picture/1.jpg)
+![硬件实物图](Picture/内部1.jpg)
+![测试](Picture/测试.jpg)
 
 #### 软件架构
 本项目仅为硬件+外壳的一体化设计，硬件设计使用嘉立创eda专业版，外壳设计使用Fusion360。
 
 #### 使用说明
-1.  若“直接使用”可以直接将./3D-Model/*.stl, ./hardware/Gerber_PCB_Hub_SL2.1A。
+1.  若“直接使用”可以直接将./3D-Model/*.stl, ./hardware/Gerber_PCB_Hub_SL2.1A发给工厂。
 2.  若“自己要进行修改”，pcb设计使用的是嘉立创eda专业版添加./Hardware/嘉立创EDA工程/ProDoc_hub_SL2.1A.epro2、外壳设计使用Fusion360加载./3D-Model/going v27.step。嘉立创开源地址：https://oshwhub.com/qiao_wen/almight-hub-20
 
