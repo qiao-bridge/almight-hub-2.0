@@ -45,7 +45,7 @@ USB Input → SL2.1A Hub → [USB×4] [TF Card] [UART]
 ![硬件实物图](assets/测试.jpg)
 
 ## 📋 BOM
-详见 [docs/BOM.xlsx](docs/BOM.xlsx)
+详见 [docs/BOM_hub_SL2.1A.xlsx](docs/BOM_hub_SL2.1A.xlsx)
 
 ## 📄 License
 GPL-3.0，详见 [LICENSE](LICENSE)
