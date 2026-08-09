@@ -38,10 +38,10 @@ USB Input → SL2.1A Hub → [USB×2]+[TF Card]+[UART]
 嘉立创开源广场：https://oshwhub.com/qiao_wen/almight-hub-20
 
 ## 📷 展示
-<img src="assets/内部1.jpg" width="300">
-<img src="assets/架构.jpg" width="300">
-<img src="assets/1.jpg" width="300">
-<img src="assets/测试.jpg" width="300">
+<img src="assets/内部1.jpg" width="400">
+<img src="assets/架构.jpg" width="400">
+<img src="assets/1.jpg" width="400">
+<img src="assets/测试.jpg" width="400">
 
 ## 📋 BOM
 详见 [docs/BOM_hub_SL2.1A.csv](docs/BOM_hub_SL2.1A.csv)
