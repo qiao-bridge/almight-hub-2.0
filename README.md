@@ -39,6 +39,7 @@ USB Input → SL2.1A Hub → [USB×2]+[TF Card]+[UART]
 
 ## 📷 展示
 <img src="assets/内部1.jpg" width="300">
+<img src="assets/架构.jpg" width="300">
 <img src="assets/1.jpg" width="300">
 <img src="assets/测试.jpg" width="300">
 
