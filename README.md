@@ -2,6 +2,7 @@
 
 在面对普通场景下（键鼠、打印机、tf卡等）usb2.0的使用更加频繁，传统的usb2.0的hub功能单一，并不能应对更加复杂的场景。因此有了该项目——基于SL2.1A的全能型hub，能更好的应对接口扩展与转化、读取tf卡、串口的实现,更加重要的是其制作成本不到6元。
 >——方便面
+<img src="assets/外壳效果图.png" width="500">
 
 ## ✨ 特性
 - 4口USB 2.0 HUB：基于SL2.1A芯片，稳定可靠
@@ -14,8 +15,8 @@
 ## 📐 硬件架构
 \`\`\`
 USB Input → SL2.1A Hub → [USB×2]+[TF Card]+[UART]
-<img src="assets/架构思路.jpg" width="500">
 \`\`\`
+<img src="assets/架构思路.jpg" width="500">
 
 ## 🗂️ 目录说明
 | 路径 | 内容 |
@@ -42,7 +43,7 @@ USB Input → SL2.1A Hub → [USB×2]+[TF Card]+[UART]
 <img src="assets/内部1.jpg" width="400">
 <img src="assets/1.jpg" width="400">
 <img src="assets/测试.jpg" width="400">
-<img src="assets/外壳效果图.png" width="400">
+
 
 
 ## 📋 BOM
