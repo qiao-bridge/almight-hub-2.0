@@ -42,8 +42,8 @@ USB Input → SL2.1A Hub → [USB×2]+[TF Card]+[UART]
 <img src="assets/内部1.jpg" width="400">
 <img src="assets/1.jpg" width="400">
 <img src="assets/测试.jpg" width="400">
-<video id="video" controls="" preload="none" poster="作者(图片地址)">
-<source id="mp4" src="assets/model分解.mp4" type="video/mp4">
+<video controls="">
+<source src="assets/model分解.mp4" type="video/mp4">
 </video>
 
 
