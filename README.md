@@ -43,7 +43,7 @@
 嘉立创开源广场：https://oshwhub.com/qiao_wen/almight-hub-20
 
 ## 📷 展示组装过程
-### ==注意在组装的过程中外壳与pcb卡的比较紧，因此保证每个器件的位置正确后，pcb与外壳先平行着然后在一起往下摁，见下图组装过程==
+> 注意在组装的过程中外壳与pcb卡的比较紧，因此保证每个器件的位置正确后，pcb与外壳先平行着然后在一起往下摁，见下图组装过程
 <img src="assets/组装0_0.jpg" width="500">
 <img src="assets/组装1.jpg" width="500">
 <img src="assets/组装2.jpg" width="500">
