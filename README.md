@@ -3,7 +3,7 @@
 在面对普通场景下（键鼠、打印机、tf卡等）usb2.0的使用更加频繁，传统的usb2.0的hub功能单一，并不能应对更加复杂的场景。因此有了该项目——基于SL2.1A的全能型hub，能更好的应对接口扩展与转化、读取tf卡、串口的实现,更加重要的是其制作成本很少。
 >——方便面
 
-<img src="assets/外壳效果图.png" width="500">
+<img src="assets/外壳效果图.png" width="550">
 <img src="assets/效果正面1.jpg" width="500">
 <img src="assets/电路板.jpg" width="500">
 <img src="assets/效果背面.jpg" width="500">
@@ -44,7 +44,7 @@ USB Input → SL2.1A Hub → [USB×2]+[TF Card]+[UART]
 嘉立创开源广场：https://oshwhub.com/qiao_wen/almight-hub-20
 
 ## 📷 展示组装过程
-<img src="assets/组装0_0.jpg" width="400">
+<img src="assets/组装0_0.jpg" width="500">
 <img src="assets/组装1.jpg" width="400">
 <img src="assets/组装2.jpg" width="400">
 <img src="assets/组装3.jpg" width="400">
