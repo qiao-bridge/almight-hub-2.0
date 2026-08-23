@@ -16,11 +16,10 @@
 
 
 ## 📐 硬件架构
-\`\`\`
-USB Input → SL2.1A Hub → [USB×2]+[TF Card]+[UART]
-\`\`\`
+\`\`\`USB Input → SL2.1A Hub → [USB×2]+[TF Card]+[UART]\`\`\`
 
 <img src="assets/架构思路.jpg" width="500">
+<img src="assets/tf卡测试.jpg">
 
 ## 🗂️ 目录说明
 | 路径 | 内容 |
