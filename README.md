@@ -39,7 +39,7 @@ USB Input → SL2.1A Hub → [USB×2]+[TF Card]+[UART]
 
 ### 自己修改
 - PCB：嘉立创EDA专业版打开 `hardware/eda_project/ProDoc_hub_SL2.1A.epro2`
-- 外壳：Fusion360 打开 `enclosure/source/going_v27.step`
+- 外壳：Fusion360 打开 `Hub_enclosure.f3z`
 
 嘉立创开源广场：https://oshwhub.com/qiao_wen/almight-hub-20
 
